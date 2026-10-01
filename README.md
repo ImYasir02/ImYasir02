@@ -1,16 +1,18 @@
-## Hi there 👋
+#  About Me:
+Md Yasir Ansari<br><br>Cybersecurity | Web & API Security | VAPT/WAPT<br><br>Hi everyone, I'm Yasir. I work in cybersecurity with a focus on web application security, API security, and VAPT/WAPT.<br><br>Open to Security Analyst roles.<br><br>---<br><br>Achievements<br><br>70+ Hall of Fame recognitions from organizations and security programs worldwide.<br><br>Selected Acknowledgments & Recognitions<br><br>1. Nykaa — Boolean-based SQL Injection<br><br>2. University of Nebraska — Time-Based Blind SQL Injection<br>   <br>   - Digital Badge: SQL Injection<br><br>3. Woodpecker — Time-Based SQL Injection<br><br>4. Utrecht University — Cross-Site Scripting (XSS)<br><br>5. BT.com — Privilege Escalation<br><br>6. DocByte — Source Code Disclosure<br><br>7. CoachBox — Exposed Laravel Horizon<br><br>8. BASF, cPanel — Exposed PHPinfo Page<br><br>9. Ucartz — Directory Listing<br><br>10. Cleo.com — Information Disclosure<br><br>Credentials & Badges<br><br>University of Nebraska System — Digital Badge: SQL Injection<br><br>---<br><br>Technical Skills<br><br>Security: Web Application Security, API Security, VAPT/WAPT, OWASP Top 10, Authentication & Authorization, Access Control Testing, Source Code Review, Vulnerability Research, Bug Bounty Hunting, Reconnaissance, Security Report Writing<br><br>Vulnerabilities: SQL Injection, XSS, CSRF, SSRF, IDOR / Broken Access Control, Path Traversal, Privilege Escalation, Business Logic Flaws, Information Disclosure, Security Misconfiguration<br><br>Testing Tools: Burp Suite, OWASP ZAP, SQLMap, Nuclei, ffuf, dirsearch, Arjun, Dalfox<br><br>Recon Tools: Subfinder, httpx, gau, waybackurls, hakrawler<br><br>Network & Other: Nmap, Wireshark, Nessus, John the Ripper, Metasploit (learning)<br><br>Languages: Python, Bash, SQL, HTML, JavaScript, PowerShell<br><br>Systems: Linux, Kali Linux, Windows<br><br>Development: Flask, SQLite, Git, GitHub<br><br>---<br><br>Projects<br><br>Secure Login System with User Role Management<br><br>Flask + SQLite web app built with security-first design.<br><br>- Role-Based Access Control (RBAC)<br>- bcrypt password hashing<br>- CSRF protection<br>- Rate limiting and account lockout<br>- Email verification and password reset<br><br>[VIEW REPOSITORY](https://github.com/ImYasir02/Secure-Login-System-with-User-Role-Management)<br><br>---<br><br>Labs & Practice<br><br>Platform| Progress<br>[TRYHACKME](https://tryhackme.com/p/yasirsec21) | OWASP Top 10<br>[HackTheBox](https://profile.hackthebox.com/profile/01a0f19a-ddfc-7086-bdda-d6867cf47695?utm_medium=copy_url) | Machines & challenges<br>PortSwigger Web Security Academy| 269+ labs<br>[PicoCTF](https://learn.cylabacademy.org/users/yasirsec21) | 50+ challenges<br>OverTheWire Bandit| 30+ levels<br><br>---<br><br>Staying Current<br><br>I keep myself updated with the latest cybersecurity news, vulnerabilities, and attack techniques, and I continue learning through hands on labs and real world testing.
 
-<!--
-**ImYasir02/ImYasir02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/im_yasir21?stkn=bmZvZGk0bml6bHRl) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mdyasir-security?utm_source=share_via&utm_content=profile&utm_medium=member_android) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/im_yasir21) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yasirsec21@gmail.com  ) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=ImYasir02&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=ImYasir02&theme=codeSTACKr&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=ImYasir02&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://komarev.com/ghpvc/?username=ImYasir02&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

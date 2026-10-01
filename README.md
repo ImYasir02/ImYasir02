@@ -23,16 +23,16 @@ Open to **Security Analyst** roles.
 
 ### Selected Acknowledgments & Recognitions
 
-1. **Nykaa** — Boolean-based SQL Injection
-2. **University of Nebraska** — Time-Based Blind SQL Injection  
+1. **[Nykaa](https://www.nykaa.com/responsible-disclosure-contributors/lp)** — Boolean-based SQL Injection
+2. **[University of Nebraska](https://nebraska.edu/offices/information-technology-services/vulnerability-disclosure-program/vdp-hall-of-fame)** — Time-Based Blind SQL Injection  
    - Digital Badge: SQL Injection
 3. **Woodpecker** — Time-Based SQL Injection
-4. **Utrecht University** — Cross-Site Scripting (XSS)
-5. **BT.com** — Privilege Escalation
-6. **DocByte** — Source Code Disclosure
+4. **[Utrecht University](https://www.uu.nl/en/organisation/information-and-technology-services-its/hall-of-fame-responsible-disclosure)** — Cross-Site Scripting (XSS)
+5. **[BT.com](https://www.bt.com/about/contact-bt/responsible-disclosure/hall-of-fame)** — Privilege Escalation
+6. **[DocByte](https://www.docbyte.com/hall-of-fame/)** — Source Code Disclosure
 7. **CoachBox** — Exposed Laravel Horizon
-8. **BASF, cPanel** — Exposed PHPinfo Page
-9. **Ucartz** — Directory Listing
+8. **[BASF](https://www.basf.com/global/en/legal/responsible-disclosure-statement#0-573525713), cPanel** — Exposed PHPinfo Page
+9. **[Ucartz](https://www.ucartz.com/responsible-disclosure)** — Directory Listing
 10. **Cleo.com** — Information Disclosure
 
 ### Credentials & Badges
@@ -115,22 +115,21 @@ I keep myself updated with the latest cybersecurity news, vulnerabilities, and a
 ![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-%23000000.svg?style=for-the-badge&logo=owasp&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-%23000000.svg?style=for-the-badge&logo=nmap&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-%231679A7.svg?style=for-the-badge&logo=wireshark&logoColor=white)
-![Nuclei](https://img.shields.io/badge/Nuclei-%23000000.svg?style=for-the-badge&logoColor=white)
-![SQLMap](https://img.shields.io/badge/SQLMap-%23000000.svg?style=for-the-badge&logoColor=white)
-![ffuf](https://img.shields.io/badge/ffuf-%23000000.svg?style=for-the-badge&logoColor=white)
+![SQLMap](https://img.shields.io/badge/SQLMap-%23E34F26.svg?style=for-the-badge&logoColor=white)
+![Nuclei](https://img.shields.io/badge/Nuclei-%237C3AED.svg?style=for-the-badge&logoColor=white)
+![ffuf](https://img.shields.io/badge/ffuf-%23F97316.svg?style=for-the-badge&logoColor=white)
 ![Nessus](https://img.shields.io/badge/Nessus-%2300A4EF.svg?style=for-the-badge&logo=tenable&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-%23000000.svg?style=for-the-badge&logo=metasploit&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-%23DC2626.svg?style=for-the-badge&logo=metasploit&logoColor=white)
 
-![Subfinder](https://img.shields.io/badge/Subfinder-%23000000.svg?style=for-the-badge&logoColor=white)
-![httpx](https://img.shields.io/badge/httpx-%23000000.svg?style=for-the-badge&logoColor=white)
-![gau](https://img.shields.io/badge/gau-%23000000.svg?style=for-the-badge&logoColor=white)
-![Waybackurls](https://img.shields.io/badge/Waybackurls-%23000000.svg?style=for-the-badge&logoColor=white)
-![Hakrawler](https://img.shields.io/badge/Hakrawler-%23000000.svg?style=for-the-badge&logoColor=white)
-![Dalfox](https://img.shields.io/badge/Dalfox-%23000000.svg?style=for-the-badge&logoColor=white)
-![Dirsearch](https://img.shields.io/badge/Dirsearch-%23000000.svg?style=for-the-badge&logoColor=white)
-![Arjun](https://img.shields.io/badge/Arjun-%23000000.svg?style=for-the-badge&logoColor=white)
-
-![John the Ripper](https://img.shields.io/badge/John%20the%20Ripper-%23000000.svg?style=for-the-badge&logoColor=white)
+![Subfinder](https://img.shields.io/badge/Subfinder-%2306B6D4.svg?style=for-the-badge&logoColor=white)
+![httpx](https://img.shields.io/badge/httpx-%2310B981.svg?style=for-the-badge&logoColor=white)
+![gau](https://img.shields.io/badge/gau-%238B5CF6.svg?style=for-the-badge&logoColor=white)
+![Waybackurls](https://img.shields.io/badge/Waybackurls-%23EC4899.svg?style=for-the-badge&logoColor=white)
+![Hakrawler](https://img.shields.io/badge/Hakrawler-%23F59E0B.svg?style=for-the-badge&logoColor=white)
+![Dalfox](https://img.shields.io/badge/Dalfox-%23EF4444.svg?style=for-the-badge&logoColor=white)
+![Dirsearch](https://img.shields.io/badge/Dirsearch-%236366F1.svg?style=for-the-badge&logoColor=white)
+![Arjun](https://img.shields.io/badge/Arjun-%2314B8A6.svg?style=for-the-badge&logoColor=white)
+![John the Ripper](https://img.shields.io/badge/John%20the%20Ripper-%237C3AED.svg?style=for-the-badge&logoColor=white)
 
 ---
 
@@ -144,4 +143,4 @@ I keep myself updated with the latest cybersecurity news, vulnerabilities, and a
 
 ---
 
-[![](https://komarev.com/ghpvc/?username=ImYasir02&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=ImYasir02&icon=0&color=0)](https://visitcount.itsvg.in) 
